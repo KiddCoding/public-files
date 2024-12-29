@@ -1,0 +1,28 @@
+{
+    [
+        {
+            "appName": "The 4 Aces",
+            "appDescription": "Quick solitare game",
+            "appIconLocation": "https://kiddcoding.github.io/docs/AppLinks/The4Aces.png",
+            "appURL": "https://apps.apple.com/us/app/the-4-aces/id1536764365"
+        },
+        {
+            "appName": "Decision Wheel",
+            "appDescription": "A fun way to decide",
+            "appIconLocation": "https://kiddcoding.github.io/docs/AppLinks/DecisionWheel.png",
+            "appURL": "https://apps.apple.com/us/app/decision-wheel-spin-decide/id6477305598"
+        },
+        {
+            "appName": "Number Line",
+            "appDescription": "Fun addition/subtraction game",
+            "appIconLocation": "https://kiddcoding.github.io/docs/AppLinks/NumberLine.png",
+            "appURL": "https://apps.apple.com/us/app/number-line-add-subtract-game/id1537278570"
+        },
+        {
+            "appName": "My Cows",
+            "appDescription": "A road trip game",
+            "appIconLocation": "https://kiddcoding.github.io/docs/AppLinks/MyCows.png",
+            "appURL": ""
+        }
+    ]
+}
