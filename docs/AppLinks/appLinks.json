@@ -23,7 +23,7 @@
         },
         
         {
-            "id": 4
+            "id": 4,
             "appName": "My Cows",
             "appDescription": "A road trip game",
             "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/MyCows.png",
