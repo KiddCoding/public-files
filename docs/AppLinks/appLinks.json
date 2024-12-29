@@ -1,5 +1,4 @@
-{
-    [
+[
         {
             "id" : 1,
             "appName": "The 4 Aces",
@@ -29,5 +28,4 @@
             "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/MyCows.png",
             "appURL": "nothing"
         }
-    ]
-}
+]
