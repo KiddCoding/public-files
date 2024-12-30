@@ -2,7 +2,7 @@
         {
             "id" : 1,
             "appName": "The 4 Aces",
-            "appDescription": "Quick solitare game",
+            "appDescription": "60 second solitare game",
             "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/The4Aces.png",
             "appURL": "https://apps.apple.com/us/app/the-4-aces/id1536764365"
         },
