@@ -9,7 +9,7 @@
         {
             "id" : 2,
             "appName": "Number Line",
-            "appDescription": "Fun addition/subtraction game",
+            "appDescription": "Fun & educational addition/subtraction game",
             "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/NumberLine.png",
             "appURL": "https://apps.apple.com/us/app/number-line-add-subtract-game/id1537278570"
         },
@@ -19,46 +19,5 @@
             "appDescription": "A super fun way to decide",
             "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/DecisionWheelAppIcon.png",
             "appURL": "https://apps.apple.com/us/app/decision-wheel-spin-decide/id6477305598"
-        },
-        
-        {
-            "id": 4,
-            "appName": "My Cows",
-            "appDescription": "A road trip game",
-            "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/MyCows.png",
-            "appURL": "nothing"
-        },
-
-        {
-            "id": 5,
-            "appName": "My Cows",
-            "appDescription": "A road trip game",
-            "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/MyCows.png",
-            "appURL": "nothing"
-        },
-
-        {
-            "id": 6,
-            "appName": "My Cows",
-            "appDescription": "A road trip game",
-            "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/MyCows.png",
-            "appURL": "nothing"
-        },
-
-        {
-            "id": 7,
-            "appName": "My Cows",
-            "appDescription": "A road trip game",
-            "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/MyCows.png",
-            "appURL": "nothing"
-        },
-
-        {
-            "id": 8,
-            "appName": "My Cows",
-            "appDescription": "A road trip game",
-            "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/MyC3ows.png",
-            "appURL": "nothing"
         }
-        
 ]
