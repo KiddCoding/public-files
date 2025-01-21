@@ -19,5 +19,12 @@
             "appDescription": "A super fun way to decide",
             "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/DecisionWheelAppIcon.png",
             "appURL": "https://apps.apple.com/us/app/decision-wheel-spin-decide/id6477305598"
+        },
+        {
+            "id": 5,
+            "appName": "Kidd Coding",
+            "appDescription": "All apps by Kidd Coding LLC",
+            "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/MyCows.png",
+            "appURL": "https://apps.apple.com/us/developer/kidd-coding-llc/id1531543147"
         }
 ]
