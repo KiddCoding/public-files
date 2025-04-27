@@ -17,7 +17,13 @@
             "appName": "Number Line",
             "appDescription": "Fun & educational addition/subtraction game",
             "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/NumberLine.png",
-            "appURL": "https://apps.apple.com/us/app/number-line-add-subtract-game/id1537278570"
+            "appURL": "https://apps.apple.com/us/app/number-line-add-subtract-game/id1537278570",
+            "appLocalizations" : {
+              "es" : {
+                "name" : "Linea Numerica",
+                "description" : "Juego educativo simple!"
+              }
+            }
         },
         {
             "id": 3,
