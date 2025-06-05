@@ -30,7 +30,13 @@
             "appName": "Decision Wheel",
             "appDescription": "A super fun way to decide",
             "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/DecisionWheelAppIcon.png",
-            "appURL": "https://apps.apple.com/us/app/decision-wheel-spin-decide/id6477305598"
+            "appURL": "https://apps.apple.com/us/app/decision-wheel-spin-decide/id6477305598",
+            "appLocalizations" : {
+              "es" : {
+                "name" : "Rueda de decisiones",
+                "description" : "¡Una forma divertida de decidir!"
+              }
+            }
         },
         {
             "id": 4,
