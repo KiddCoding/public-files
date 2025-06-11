@@ -9,7 +9,11 @@
                 "es" : {
                         "name" : "Los 4 Ases",
                         "description" : "Juego de cartas de solitario"
-                }
+                },
+                    "fr" : {
+                            "name" : "Francais",
+                            "description" : "Description in French"
+                    }
             }
         },
         {
