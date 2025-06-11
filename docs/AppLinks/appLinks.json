@@ -5,20 +5,16 @@
             "appDescription": "60 second solitare game",
             "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/The4Aces.png",
             "appURL": "https://apps.apple.com/us/app/the-4-aces/id1536764365",
-            "appLocalizations" : [
-                    {
+            "appLocalizations" : {
                       "es" : {
                         "name" : "Los 4 Ases",
                         "description" : "Juego de cartas de solitario"
+                      },
+                      "fr" : {
+                        "name" : "Francais",
+                        "description" : "Description in French"
                       }
-                    },
-                    {
-                        "fr" : {
-                                "name" : "Francais",
-                                "description" : "Description in French"
-                        }
-                    }
-            ]
+                }
         },
         {
             "id" : 2,
