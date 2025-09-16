@@ -3,7 +3,7 @@
             "id" : 1,
             "appName": "The 4 Aces",
             "appDescription": "60 second solitare game",
-            "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/The4Aces.png",
+            "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/The4Aces26.png",
             "appURL": "https://apps.apple.com/us/app/the-4-aces/id1536764365",
             "appLocalizations" : {
                 "es" : {
@@ -16,7 +16,7 @@
             "id" : 2,
             "appName": "Number Line",
             "appDescription": "Fun & educational addition/subtraction game",
-            "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/NumberLine.png",
+            "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/NumberLine26.png",
             "appURL": "https://apps.apple.com/us/app/number-line-add-subtract-game/id1537278570",
             "appLocalizations" : {
               "es" : {
@@ -29,7 +29,7 @@
             "id": 3,
             "appName": "Decision Wheel",
             "appDescription": "A super fun way to decide",
-            "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/DecisionWheelAppIcon.png",
+            "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/DecisionWheel26.png",
             "appURL": "https://apps.apple.com/us/app/decision-wheel-spin-decide/id6477305598",
             "appLocalizations" : {
               "es" : {
