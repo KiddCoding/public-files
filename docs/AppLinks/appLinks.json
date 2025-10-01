@@ -1,6 +1,26 @@
 [
         {
-            "id" : 1,
+            "id": 1,
+            "appName": "Decision Wheel",
+            "appDescription": "A super fun way to decide",
+            "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/DecisionWheel26.png",
+            "appURL": "https://apps.apple.com/us/app/decision-wheel-spin-decide/id6477305598",
+            "appLocalizations" : {
+              "es" : {
+                "name" : "Rueda de decisiones",
+                "description" : "¡Una forma divertida de decidir!"
+                }
+            }
+        },
+        {
+            "id": 2,
+            "appName": "Zulu Alarm",
+            "appDescription": "A UTC/GMT alarm! Great for aviation uses!",
+            "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/ZuluAlarm26.png",
+            "appURL": "https://apps.apple.com/us/app/zulu-alarm/id6751558147"
+        },
+        {
+            "id" : 3,
             "appName": "The 4 Aces",
             "appDescription": "60 second solitare game",
             "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/The4Aces26.png",
@@ -13,7 +33,7 @@
             }
         },
         {
-            "id" : 2,
+            "id" : 4,
             "appName": "Number Line",
             "appDescription": "Fun & educational addition/subtraction game",
             "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/NumberLine26.png",
@@ -22,24 +42,11 @@
               "es" : {
                 "name" : "Linea Numerica",
                 "description" : "Juego educativo simple!"
-              }
+                }
             }
         },
         {
-            "id": 3,
-            "appName": "Decision Wheel",
-            "appDescription": "A super fun way to decide",
-            "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/DecisionWheel26.png",
-            "appURL": "https://apps.apple.com/us/app/decision-wheel-spin-decide/id6477305598",
-            "appLocalizations" : {
-              "es" : {
-                "name" : "Rueda de decisiones",
-                "description" : "¡Una forma divertida de decidir!"
-              }
-            }
-        },
-        {
-            "id": 4,
+            "id": 5,
             "appName": "My Cows",
             "appDescription": "A road trip game",
             "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/MyCows.png",
