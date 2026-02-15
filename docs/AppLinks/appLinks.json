@@ -17,7 +17,21 @@
             "appName": "Zulu Alarm",
             "appDescription": "A UTC/GMT alarm! Great for aviation uses!",
             "appIconLocation": "https://kiddcoding.github.io/public-files/AppLinks/ZuluAlarm26.png",
-            "appURL": "https://apps.apple.com/us/app/zulu-alarm/id6751558147"
+            "appURL": "https://apps.apple.com/us/app/zulu-alarm/id6751558147",
+            "appLocalizations" : {
+                "de" : {
+                    "name" : "Zulu Alarm",
+                    "description" : "Wecker in Zulu-Zeit (UTC/GMT)"
+                },
+                "es" : {
+                    "name" : "Zulu Alarm",
+                    "description" : "Alarmas en hora Zulu (UTC/GMT)"
+                },
+                "fr" : {
+                    "name" : "Zulu Alarm",
+                    "description" : "Alarmes en Zulu (UTC/GMT)"
+                }
+            }
         },
         {
             "id" : 3,
